@@ -1,5 +1,5 @@
 import Table from "./components/Table/Table";
-console.log("hello world");git 
+
 function App() {
   return (
     <div className="container=">
